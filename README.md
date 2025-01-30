@@ -1,0 +1,1 @@
+This is a website I created with only html,css, and js to replicate a Animation portfolio of a friend who made it with Wix.com. This is simply the webpage although publishing would only take creating a server with Node js and then portforwarding. Also probably buying a domain name. 
